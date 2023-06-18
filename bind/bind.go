@@ -7,7 +7,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/keybase/go-keychain"
+	keychain "github.com/keybase/go-keychain"
 )
 
 // Test is a bind interface for the test
